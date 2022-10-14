@@ -3,28 +3,28 @@
 #include <stdio.h>
 #include <string.h>
 
-typedef struct Data{
+typedef struct Data {
 	char* data;
 	struct Data* dt_link;
 } Data;
 
 typedef struct FD {
-	char *f_id;
-	char *form;
-	char *size;
+	char* f_id;
+	char* form;
+	char* size;
 	struct FD* f_link;
 	struct Data* dt_link;
 } FD;
 
 typedef struct TB {
-	char *t_id;
+	char* t_id;
 	struct TB* t_link;
 	struct FD* f_link;
 } TB;
 
 
 typedef struct DB {
-	char *d_id;
+	char* d_id;
 	struct DB* d_link;
 	struct TB* t_link;
 } DB;
