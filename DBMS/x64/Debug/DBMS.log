@@ -1,0 +1,15 @@
+﻿  test.cpp
+C:\Users\neo\Desktop\지성\c기본\C_DBMS\DBMS\test.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\neo\Desktop\지성\c기본\C_DBMS\DBMS\struct.h(70,32): warning C4267: '초기화 중': 'size_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\neo\Desktop\지성\c기본\C_DBMS\DBMS\test.cpp(23,8): warning C4477: 'scanf' : 서식 문자열 '%[^\n]'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const char *'입니다.
+C:\Users\neo\Desktop\지성\c기본\C_DBMS\DBMS\test.cpp(187,8): warning C4477: 'scanf' : 서식 문자열 '%[^\n]'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const char *'입니다.
+C:\Users\neo\Desktop\지성\c기본\C_DBMS\DBMS\test.cpp(355,8): warning C4477: 'scanf' : 서식 문자열 '%[^\n]'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const char *'입니다.
+C:\Users\neo\Desktop\지성\c기본\C_DBMS\DBMS\test.cpp(553,8): warning C4477: 'scanf' : 서식 문자열 '%[^\n]'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const char *'입니다.
+C:\Users\neo\Desktop\지성\c기본\C_DBMS\DBMS\test.cpp(866,8): warning C4477: 'scanf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const char *'입니다.
+C:\Users\neo\Desktop\지성\c기본\C_DBMS\DBMS\test.cpp(914,9): warning C4477: 'scanf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const char *'입니다.
+C:\Users\neo\Desktop\지성\c기본\C_DBMS\DBMS\test.cpp(919,11): warning C4477: 'scanf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const char *'입니다.
+C:\Users\neo\Desktop\지성\c기본\C_DBMS\DBMS\test.cpp(959,8): warning C4477: 'scanf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const char *'입니다.
+C:\Users\neo\Desktop\지성\c기본\C_DBMS\DBMS\test.cpp(961,8): warning C4477: 'scanf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const char *'입니다.
+C:\Users\neo\Desktop\지성\c기본\C_DBMS\DBMS\test.cpp(1069,9): warning C4477: 'scanf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const char *'입니다.
+C:\Users\neo\Desktop\지성\c기본\C_DBMS\DBMS\test.cpp(1073,11): warning C4477: 'scanf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const char *'입니다.
+  DBMS.vcxproj -> C:\Users\neo\Desktop\지성\c기본\C_DBMS\DBMS\x64\Debug\DBMS.exe
